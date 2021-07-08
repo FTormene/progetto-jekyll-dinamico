@@ -1,6 +1,11 @@
-- title: Getting Started
+- title: Game of Thrones
   docs:
   - home
+  - casate
+
+- title: Getting Started
+  docs:
+  - welcome
   - themes
   - customization
 
